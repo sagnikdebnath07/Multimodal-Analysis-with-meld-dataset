@@ -1,6 +1,6 @@
 # Multimodal-Analysis-with-meld-dataset
 ## Overview
-In this project, we have performed multimodal emotion recognition on the publicly available MELD dataset, sourced from Kaggle. Along with the dataset, various encodings (text, audio, and bimodal fusion) were already generated and made available. Due to the absence of audio files, we utilized the pre-computed audio encodings. Although we attempted to generate video encodings, we were unsuccessful due to hardware limitations.
+In this project, we have performed multimodal emotion recognition on the publicly available [MELD](https://www.kaggle.com/datasets/zaber666/meld-dataset) dataset, sourced from Kaggle. Along with the dataset, various encodings (text, audio, and bimodal fusion) were already generated and made available. Due to the absence of audio files, we utilized the pre-computed audio encodings. Although we attempted to generate video encodings, we were unsuccessful due to hardware limitations.
 
 ## Dataset
 The **MELD (Multimodal Emotion Lines Dataset)** is a publicly available dataset. The industry benchmark for this dataset is:
